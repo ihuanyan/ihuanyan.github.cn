@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>TEST</title>
+    <updated>2020-12-04T01:27:49.716Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="self" href="atom.xml"/>
+    <subtitle>简单点</subtitle>
+    <logo>images/avatar.png</logo>
+    <rights>All rights reserved 2020, TEST</rights>
+</feed>
